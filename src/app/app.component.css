@@ -1,0 +1,31 @@
+form{
+    text-align: center !important;
+    background-color: rgba(247, 147, 147, 0.925);
+    display:table;
+    margin:auto;
+    padding: 20px 20px 20px 20px;
+}
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    max-width: 1000vh;
+    background-image: url("../assets/004.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+button{
+    color: rgb(247, 212, 212);
+    background-color: rgb(145, 56, 56);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
